@@ -1,12 +1,12 @@
 .tdf {width:500px;height:200px;display:flex;justify-content:center;margin:0 auto;}
 .tdim {width:200px;height:200px;border-right:3px solid var(--afiliados);background-image:url('https://i.imgur.com/O9rg3wn.png');}
-.tdimi {width:297px;height:200px;background-image:url('https://i.imgur.com/VtzNdQS.png');overflow:hidden;}
-.tdef {width:297px;height:200px;background-image:url('https://i.imgur.com/VtzNdQS.png');opacity:0;transition:ease 1s;}
-.tdef:hover {width:297px;height:200px;background-image:url('https://i.imgur.com/g6b0RcD.png');opacity:1;transition:ease 1s;}
-.tden {display:flex;justify-content:center;padding-top:25px;padding-bottom:3px;}
+.tdimi {width:296px;height:200px;background-image:url('https://i.imgur.com/OYaJQhP.png');overflow:hidden;}
+.tdef {width:296px;height:200px;background-image:url('https://i.imgur.com/OYaJQhP.png');opacity:0;transition:ease 1s;}
+.tdef:hover {width:297px;height:200px;background-image:url('https://i.imgur.com/ib4EBXC.png');opacity:1;transition:ease 1s;}
+.tden {display:flex;justify-content:center;padding-top:17px;padding-bottom:3px;}
 .tdli1 {width:50px;height:50px;background-image:url('https://i.imgur.com/ZIz8ShT.png');}
 .tdli2 {width:50px;height:50px;background-image:url('https://i.imgur.com/q8GnvMI.png');margin-right:3px;margin-left:3px;}
 .tdli3 {width:50px;height:50px;background-image:url('https://i.imgur.com/1HMB0wC.png');margin-right:3px;}
 .tdli4 {width:50px;height:50px;background-image:url('https://i.imgur.com/0HhxQyE.png');margin-right:3px;}
 .tdli5 {width:50px;height:50px;background-image:url('https://i.imgur.com/mdoCEeV.png');}
-.tdbatf {width:262px;background-image:url('https://i.imgur.com/bcK9Xr7.png');height:97px;margin:0 auto;}
+.tdbatf {width:262px;background-image:url('https://i.imgur.com/rET4BYd.png');height:113px;margin:0 auto;}
