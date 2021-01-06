@@ -1,5 +1,5 @@
 .tdf {width:500px;height:200px;display:flex;justify-content:center;margin:0 auto;}
-.tdim {width:200px;height:200px;border-right:3px solid var(--afiliados);background-image:url('https://i.imgur.com/O9rg3wn.png');}
+.tdim {width:200px;height:200px;background-image:url('https://i.imgur.com/O9rg3wn.png');}
 .tdimi {width:296px;height:200px;background-image:url('https://i.imgur.com/OYaJQhP.png');overflow:hidden;}
 .tdef {width:296px;height:200px;background-image:url('https://i.imgur.com/OYaJQhP.png');opacity:0;transition:ease 1s;}
 .tdef:hover {width:296px;height:200px;background-image:url('https://i.imgur.com/ib4EBXC.png');opacity:1;transition:ease 1s;}
